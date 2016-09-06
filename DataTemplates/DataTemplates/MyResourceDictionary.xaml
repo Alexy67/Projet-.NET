@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:models="clr-namespace:DataTemplates"
+                    xmlns:desc="clr-namespace:DataTemplates.Descriptions">
+    <DataTemplate DataType="{x:Type models:ClassA}">
+        <desc:ClassADescription />
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type models:ClassB}">
+        <desc:ClassBDescription />
+    </DataTemplate>
+</ResourceDictionary>
