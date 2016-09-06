@@ -4,16 +4,28 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\ensimag\Projet-.NET\DataTemplates\DataTemplates\obj\Debug\
+=======
+C:\Users\ensimag\Downloads\DataTemplates\DataTemplates\DataTemplates\obj\Debug\
+>>>>>>> db97fe7c4e2bd0b872665cb83ce8c074b42b62cb
 DataTemplates
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 C:\Users\ensimag\Projet-.NET\DataTemplates\DataTemplates\App.xaml
 4572817972
 
 12720232951
 641475389514
+=======
+C:\Users\ensimag\Downloads\DataTemplates\DataTemplates\DataTemplates\App.xaml
+4572817972
+
+111525319881
+63-1511732336
+>>>>>>> db97fe7c4e2bd0b872665cb83ce8c074b42b62cb
 Descriptions\ClassADescription.xaml;Descriptions\ClassBDescription.xaml;MainWindow.xaml;MyResourceDictionary.xaml;
 
 False
