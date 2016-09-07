@@ -45,3 +45,6 @@ C:\Users\ensimag\Projet-.NET\DataTemplates\DataTemplates\obj\Debug\DataTemplates
 C:\Users\ensimag\Projet-.NET\DataTemplates\DataTemplates\obj\Debug\DataTemplates.csproj.GenerateResource.Cache
 =======
 >>>>>>> db97fe7c4e2bd0b872665cb83ce8c074b42b62cb
+C:\Users\ensimag\Documents\Intro .NET\DataTemplates\DataTemplates\bin\Debug\DataTemplates.exe.config
+C:\Users\ensimag\Documents\Intro .NET\DataTemplates\DataTemplates\obj\Debug\DataTemplates.exe
+C:\Users\ensimag\Documents\Intro .NET\DataTemplates\DataTemplates\obj\Debug\DataTemplates.pdb
